@@ -1,0 +1,4 @@
+# Protege TODO el sitio con Autenticación Básica (usuario y contraseña).
+# /*  = aplica a todas las rutas del sitio.
+/*
+  Basic-Auth: admin:Verificacion2026
